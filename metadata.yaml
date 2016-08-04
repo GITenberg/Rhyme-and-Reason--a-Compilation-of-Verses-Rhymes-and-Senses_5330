@@ -1,0 +1,24 @@
+_repo: Rhyme-and-Reason--a-Compilation-of-Verses-Rhymes-and-Senses_5330
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dom
+    alias: Wong, L. M.
+    gutenberg_agent_id: '1770'
+    url: http://www.gutenberg.org/2009/agents/1770
+    wikipedia: http://dominaeprimus.blogspot.com/
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5330'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Rhyme and Reason; a Compilation of Verses, Rhymes and Senses
+url: http://www.gutenberg.org/ebooks/5330
